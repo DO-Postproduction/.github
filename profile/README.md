@@ -6,7 +6,7 @@ Bienvenidos a **DO Postproduction**, un estudio líder en efectos visuales (VFX)
 
 Somos especialistas en ofrecer soluciones técnicas y creativas de alto nivel para películas, series, documentales y publicidad. Nuestro equipo está compuesto por profesionales con gran experiencia y pasión, apoyados por equipos técnicos y software de última generación.
 
-![Imagen del proyecto](URL-de-la-imagen-del-proyecto)
+![Imagen del proyecto](https://media.revistagq.com/photos/5e941e89d39d4700080d7e2b/16:9/w_1280,c_limit/la-casa-de-papel.jpg)
 
 ## Filosofía
 
