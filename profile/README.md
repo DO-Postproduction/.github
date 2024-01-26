@@ -16,15 +16,17 @@ En DO Postproduction creemos en el futuro y en los avances tecnológicos. Invert
 
 ### La Casa de Papel
 ![La Casa de Papel](https://pics.filmaffinity.com/la_casa_de_papel-844739080-mmed.jpg)
+
 Como principales proveedores de VFX, hemos trabajado en la creación de cabeceras, activos como helicópteros, zepelines y vehículos militares.
 
 ### Sky Rojo
 ![Sky Rojo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/151c14f3-8e84-4341-87ca-aa77d57f3a0d/dehlzyz-2c943919-0651-4726-84c5-96cb3858f41e.png)
+
 Produjimos todas las secuencias de VFX de la serie, incluyendo la reconstrucción digital de entornos naturales y la integración de fondos 360 con coches CGI.
 
 **Berlin (Serie de Netflix)**
-[Descripción breve del proyecto y tu contribución]
 ![Imagen de Berlin](https://s1.dmcdn.net/v/Uvg5I1aYvCA6OYahX/x1080)
+
 Desarrollamos la secuencia de títulos de apertura con escaneos 3D, modelado de entornos, texturización e iluminación.
 
 ## Contacto
