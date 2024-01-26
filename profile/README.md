@@ -6,15 +6,26 @@ Bienvenidos a **DO Postproduction**, un estudio líder en efectos visuales (VFX)
 
 Somos especialistas en ofrecer soluciones técnicas y creativas de alto nivel para películas, series, documentales y publicidad. Nuestro equipo está compuesto por profesionales con gran experiencia y pasión, apoyados por equipos técnicos y software de última generación.
 
+![Imagen del proyecto](URL-de-la-imagen-del-proyecto)
+
 ## Filosofía
 
 En DO Postproduction creemos en el futuro y en los avances tecnológicos. Invertimos continuamente en I+D para desarrollar herramientas y equipos específicos que optimizan nuestros procesos.
 
 ## Proyectos Destacados
 
-- **La Casa de Papel**: Como principales proveedores de VFX, hemos trabajado en la creación de cabeceras, activos como helicópteros, zepelines y vehículos militares.
-- **Sky Rojo**: Produjimos todas las secuencias de VFX de la serie, incluyendo la reconstrucción digital de entornos naturales y la integración de fondos 360 con coches CGI.
-- **Toy Boy**: Desarrollamos la secuencia de títulos de apertura con escaneos 3D, modelado de entornos, texturización e iluminación.
+### La Casa de Papel
+![La Casa de Papel](https://pics.filmaffinity.com/la_casa_de_papel-844739080-mmed.jpg)
+Como principales proveedores de VFX, hemos trabajado en la creación de cabeceras, activos como helicópteros, zepelines y vehículos militares.
+
+### Sky Rojo
+![Sky Rojo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/151c14f3-8e84-4341-87ca-aa77d57f3a0d/dehlzyz-2c943919-0651-4726-84c5-96cb3858f41e.png)
+Produjimos todas las secuencias de VFX de la serie, incluyendo la reconstrucción digital de entornos naturales y la integración de fondos 360 con coches CGI.
+
+**Berlin (Serie de Netflix)**
+[Descripción breve del proyecto y tu contribución]
+![Imagen de Berlin](https://s1.dmcdn.net/v/Uvg5I1aYvCA6OYahX/x1080)
+Desarrollamos la secuencia de títulos de apertura con escaneos 3D, modelado de entornos, texturización e iluminación.
 
 ## Contacto
 
@@ -22,9 +33,9 @@ Para más información o colaboraciones, ponte en contacto con nosotros a travé
 
 ## Redes Sociales
 
-- [Facebook](#)
-- [LinkedIn](#)
-- [Instagram](#)
+- [![Icono Facebook](URL-de-la-imagen-icono-Facebook)](https://www.facebook.com/dopostproduction)
+- [![Icono LinkedIn](URL-de-la-imagen-icono-LinkedIn)](https://www.linkedin.com/company/dopostproduction)
+- [![Icono Instagram](URL-de-la-imagen-icono-Instagram)](https://www.instagram.com/dopostproduction)
 
 ---
 
